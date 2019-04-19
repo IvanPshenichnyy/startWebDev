@@ -11,5 +11,5 @@ var money = prompt('Ваш бюджет на месяц?', ''),
     saving: false
 
 };
-
+ss
     alert('Ваш бюджет на день ' + appData.budget / 30);
